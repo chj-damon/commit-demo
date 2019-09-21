@@ -1,10 +1,9 @@
 'use strict';
 
 module.exports = {
-
   types: [
     {
-      value: 'WIP',
+      value: 'wip',
       name : '💪  WIP:      开发中'
     },
     {
@@ -36,9 +35,7 @@ module.exports = {
       name : '⏪  revert:   回退提交'
     }
   ],
-
   scopes: [],
-
   allowCustomScopes: true,
   allowBreakingChanges: ["feat", "fix"]
 };
