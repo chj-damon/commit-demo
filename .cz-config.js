@@ -37,5 +37,15 @@ module.exports = {
   ],
   scopes: [],
   allowCustomScopes: true,
-  allowBreakingChanges: ["feat", "fix"]
+  allowBreakingChanges: ["feat", "fix"],
+  subjectLimit: 50,
+  messages: {
+    type: "请选择你本次改动的修改类型",
+    customScope: '\n请明确本次改动的范围（可填）:',
+    subject: '简短描述本次改动:\n',
+    body: '详细描述本次改动 (可填). 使用 "|" 换行:\n',
+    breaking: '请列出任何 BREAKING CHANGES (可填):\n',
+    footer: '请列出本次改动关闭的ISSUE (可填). 比如: #31, #34:\n',
+    confirmCommit: '你确定提交本次改动吗?',
+  },
 };
