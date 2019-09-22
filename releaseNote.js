@@ -9,7 +9,10 @@ const auth = {
   token: '8b3515655168a3f1cba7f5ebf727ce6ac012b1e6'
 };
 const changelogOpts = {
-  preset: 'angular'
+  preset: 'custom-config',
+  emojis: true,
+  authorName: true,
+  authorEmail: true
 };
 const context = {
   title: '陈杰测试',
