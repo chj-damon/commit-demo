@@ -1,3 +1,19 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.5.0](https://github.com/chj-damon/commit-demo/compare/v1.4.1...v1.5.0) (2019-09-22)
+
+
+### Bug Fixes
+
+* 不让standard-version 生成changelog ([ed4ab7f](https://github.com/chj-damon/commit-demo/commit/ed4ab7f))
+
+
+### Features
+
+* 切换standard-version为release-it ([c65d52c](https://github.com/chj-damon/commit-demo/commit/c65d52c))
+
 ## [1.4.1](https://github.com/chj-damon/commit-demo/compare/v1.4.0...v1.4.1) (2019-09-22)
 
 
