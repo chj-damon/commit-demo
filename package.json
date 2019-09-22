@@ -1,12 +1,12 @@
 {
   "name": "commit-demo",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
-    "release": "standard-version",
+    "release": "standard-version -a",
     "postrelease": "git push --follow-tags"
   },
   "author": "chj-damon",
