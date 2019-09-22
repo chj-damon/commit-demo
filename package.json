@@ -6,7 +6,8 @@
   "scripts": {
     "commit": "git-cz",
     "release": "standard-version",
-    "postrelease": "git push --follow-tags &&  CONVENTIONAL_GITHUB_RELEASER_TOKEN=9ec25380a8f535e82bdb50e22710e32bb56fc7a8 conventional-github-releaser"
+    "postrelease": "git push --follow-tags && releasenote",
+    "releasenote": "node releaseNote.js"
   },
   "author": "",
   "license": "ISC",
