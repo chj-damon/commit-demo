@@ -5,6 +5,7 @@ const conventionalGithubReleaser = require('conventional-github-releaser');
 
 const auth = {
   type: 'oauth',
+  url: 'https://api.github.com/',
   token: '8b3515655168a3f1cba7f5ebf727ce6ac012b1e6'
 };
 const changelogOpts = {
