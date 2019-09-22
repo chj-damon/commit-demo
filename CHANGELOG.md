@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.4](https://github.com/chj-damon/commit-demo/compare/v1.3.3...v1.3.4) (2019-09-22)
+
+
+### Bug Fixes
+
+* 修复custom-config配置不生效的bug ([400c13c](https://github.com/chj-damon/commit-demo/commit/400c13c))
+
 ### [1.3.3](https://github.com/chj-damon/commit-demo/compare/v1.3.2...v1.3.3) (2019-09-22)
 
 
