@@ -1,8 +1,49 @@
-# Changelog
+## [1.5.2](https://github.com/chj-damon/commit-demo/compare/v1.5.3...v1.5.2) (2019-09-22)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.5.1](https://github.com/chj-damon/commit-demo/compare/v1.5.0...v1.5.1) (2019-09-22)
+### 🎫 Chores
+
+* 修改命令 ([d1b7762](https://github.com/chj-damon/commit-demo/commit/d1b7762)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.3](https://github.com/chj-damon/commit-demo/compare/v1.5.2...v1.5.3) (2019-09-22)
+
+
+### 🎫 Chores
+
+* **release:** 1.5.3 ([ee1da58](https://github.com/chj-damon/commit-demo/commit/ee1da58)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+### 🐛 Bug Fixes
+
+* 合并命令 ([5c69514](https://github.com/chj-damon/commit-demo/commit/5c69514)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.2](https://github.com/chj-damon/commit-demo/compare/v1.5.1...v1.5.2) (2019-09-22)
+
+
+### 🎫 Chores
+
+* **release:** 1.5.2 ([e6601f2](https://github.com/chj-damon/commit-demo/commit/e6601f2)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+### 🐛 Bug Fixes
+
+* 新增standard-version配置 ([7729686](https://github.com/chj-damon/commit-demo/commit/7729686)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.1](https://github.com/chj-damon/commit-demo/compare/v1.5.0...v1.5.1) (2019-09-22)
+
+
+### 🎫 Chores
+
+* 合并配置 ([6a6d5fe](https://github.com/chj-damon/commit-demo/commit/6a6d5fe)) by: **chj_damon** (chjdamon@gmail.com)
+* **release:** 1.5.1 ([29d1d35](https://github.com/chj-damon/commit-demo/commit/29d1d35)) by: **chj_damon** (chjdamon@gmail.com)
+
+
 
 # [1.5.0](https://github.com/chj-damon/commit-demo/compare/v1.4.1...v1.5.0) (2019-09-22)
 
