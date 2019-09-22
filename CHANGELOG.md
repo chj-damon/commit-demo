@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.3](https://github.com/chj-damon/commit-demo/compare/v1.3.2...v1.3.3) (2019-09-22)
+
+
+### Bug Fixes
+
+* 新增自定义changelog模板 ([c3ce09b](https://github.com/chj-damon/commit-demo/commit/c3ce09b))
+
 ### [1.3.2](https://github.com/chj-damon/commit-demo/compare/v1.3.1...v1.3.2) (2019-09-22)
 
 
