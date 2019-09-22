@@ -1,3 +1,46 @@
+## [1.5.7](https://github.com/chj-damon/commit-demo/compare/v1.5.6...v1.5.7) (2019-09-22)
+
+
+### 🎫 Chores
+
+* **release:** 1.5.7 ([d8ae554](https://github.com/chj-damon/commit-demo/commit/d8ae554)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.6](https://github.com/chj-damon/commit-demo/compare/v1.5.5...v1.5.6) (2019-09-22)
+
+
+### 🎫 Chores
+
+* **release:** 1.5.6 ([f3db1bf](https://github.com/chj-damon/commit-demo/commit/f3db1bf)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.5](https://github.com/chj-damon/commit-demo/compare/v1.5.4...v1.5.5) (2019-09-22)
+
+
+### 🎫 Chores
+
+* **release:** 1.5.5 ([3e8e7de](https://github.com/chj-damon/commit-demo/commit/3e8e7de)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
+## [1.5.4](https://github.com/chj-damon/commit-demo/compare/v1.5.3...v1.5.4) (2019-09-22)
+
+
+### 🎫 Chores
+
+* 修改命令 ([d1b7762](https://github.com/chj-damon/commit-demo/commit/d1b7762)) by: **chj_damon** (chjdamon@gmail.com)
+* **release:** 1.5.3 ([1801ffd](https://github.com/chj-damon/commit-demo/commit/1801ffd)) by: **chj_damon** (chjdamon@gmail.com)
+* **release:** 1.5.4 ([d48ad05](https://github.com/chj-damon/commit-demo/commit/d48ad05)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+### 🐛 Bug Fixes
+
+* 修改脚本 ([6854ad8](https://github.com/chj-damon/commit-demo/commit/6854ad8)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
 ## [1.5.3](https://github.com/chj-damon/commit-demo/compare/v1.5.2...v1.5.3) (2019-09-22)
 
 
