@@ -1,17 +1,27 @@
 #!/usr/bin/env node 
 'use strict';
 
-var conventionalGithubReleaser = require('conventional-github-releaser');
+const conventionalGithubReleaser = require('conventional-github-releaser');
 
-var AUTH = {
+const auth = {
   type: 'oauth',
   token: '8b3515655168a3f1cba7f5ebf727ce6ac012b1e6'
 };
-
-conventionalGithubReleaser(AUTH, {
+const changelogOpts = {
   preset: 'angular'
-}, (err, response) => {
+};
+const context = {
+  title: '陈杰测试',
+  host: 'https://github.com',
+  owner: 'chj-damon',
+  repository: 'commit-demo',
+};
+const gitRawCommitsOpts = {};
+const parserOpts = {};
+const writerOpts = {};
+const userCb = (err, responses) => {
   if (!err) {
-    console.log(response);
+    console.log(responses);
   }
-});
+}
+conventionalGithubReleaser(auth, changelogOpts, context, gitRawCommitsOpts, parserOpts, writerOpts, userCb);
