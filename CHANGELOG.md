@@ -1,12 +1,3 @@
-## [1.5.2](https://github.com/chj-damon/commit-demo/compare/v1.5.3...v1.5.2) (2019-09-22)
-
-
-### 🎫 Chores
-
-* 修改命令 ([d1b7762](https://github.com/chj-damon/commit-demo/commit/d1b7762)) by: **chj_damon** (chjdamon@gmail.com)
-
-
-
 ## [1.5.3](https://github.com/chj-damon/commit-demo/compare/v1.5.2...v1.5.3) (2019-09-22)
 
 
