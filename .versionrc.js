@@ -11,5 +11,8 @@ module.exports = {
       {"type": "chore", "section": "🔧 修改配置"},
       {"type": "perf", "hidden": true},
       {"type": "test", "hidden": true}
-  ]
+  ],
+  "skip": {
+    "changelog": true
+  }
 }
