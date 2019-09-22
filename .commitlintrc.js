@@ -15,7 +15,8 @@ module.exports = {
         'docs',
         'test',
         'style',
-        'revert',
+        'chore',
+        'typescript'
 			]
 		]
   }

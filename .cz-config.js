@@ -12,11 +12,15 @@ module.exports = {
     },
     {
       value: 'fix',
-      name : '🐞  fix:      修复bug'
+      name : '🐛  fix:      修复bug'
     },
     {
       value: 'refactor',
       name : '🛠  refactor: 代码重构（既不是新功能也不是改bug）'
+    },
+    {
+      value: 'chore',
+      name: '🔧  chore:    修改配置文件'
     },
     {
       value: 'docs',
@@ -31,8 +35,8 @@ module.exports = {
       name : '💅  style:    修改了样式文件'
     },
     {
-      value: 'revert',
-      name : '⏪  revert:   回退提交'
+      value: 'typescript',
+      name : '📝  typescript:    修改了typescript声明'
     }
   ],
   scopes: [],
