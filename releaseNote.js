@@ -9,4 +9,8 @@ var AUTH = {
 
 conventionalGithubReleaser(AUTH, {
   preset: 'angular'
+}, (err, response) => {
+  if (!err) {
+    console.log(response);
+  }
 });
