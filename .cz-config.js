@@ -3,10 +3,6 @@
 module.exports = {
   types: [
     {
-      value: 'wip',
-      name : '💪  WIP:      开发中'
-    },
-    {
       value: 'feat',
       name : '✨  feat:     新功能'
     },
@@ -16,28 +12,32 @@ module.exports = {
     },
     {
       value: 'refactor',
-      name : '🛠  refactor: 代码重构（既不是新功能也不是改bug）'
+      name : '♻️  refactor: 代码重构（既不是新功能也不是改bug）'
     },
     {
       value: 'chore',
-      name: '🔧  chore:    修改配置文件'
+      name: '🎫  chore:    修改流程配置'
     },
     {
       value: 'docs',
-      name : '📚  docs:     修改了文档'
+      name : '📝  docs:     修改了文档'
     },
     {
       value: 'test',
-      name : '🏁  test:     更新了测试用例'
+      name : '✅  test:     更新了测试用例'
     },
     {
       value: 'style',
-      name : '💅  style:    修改了样式文件'
+      name : '💄  style:    修改了样式文件'
     },
     {
-      value: 'typescript',
-      name : '📝  typescript:    修改了typescript声明'
-    }
+      value: 'perf',
+      name: '⚡️  perf:     新能优化',
+    },
+    { 
+      value: 'revert', 
+      name: '⏪  revert:   回退提交' 
+    },
   ],
   scopes: [],
   allowCustomScopes: true,
