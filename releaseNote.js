@@ -21,6 +21,7 @@ const gitRawCommitsOpts = {};
 const parserOpts = {};
 const writerOpts = {};
 const userCb = (err, responses) => {
+  console.log(123);
   if (!err) {
     console.log(responses);
   }
