@@ -5,18 +5,18 @@
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
+    "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
     "release": "standard-version",
-    "postrelease": "git push --follow-tags && npm run releasenote",
-    "releasenote": "node releaseNote.js"
+    "postrelease": "git push --follow-tags"
   },
-  "author": "",
+  "author": "chj-damon",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
     "commitizen": "^4.0.3",
+    "conventional-changelog-cli": "^2.0.23",
     "conventional-changelog-custom-config": "^0.2.0",
-    "conventional-github-releaser": "^3.1.3",
     "cz-customizable": "^6.2.0",
     "husky": "^3.0.5",
     "standard-version": "^7.0.0"
