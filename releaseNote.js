@@ -1,3 +1,4 @@
+#!/usr/bin/env node 
 'use strict';
 
 var conventionalGithubReleaser = require('conventional-github-releaser');

@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "release": "standard-version",
-    "postrelease": "git push --follow-tags && releasenote",
+    "postrelease": "git push --follow-tags && npm run releasenote",
     "releasenote": "node releaseNote.js"
   },
   "author": "",
