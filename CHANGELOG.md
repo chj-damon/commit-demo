@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/chj-damon/commit-demo/compare/v1.3.0...v1.3.1) (2019-09-22)
+
+
+### Bug Fixes
+
+* 修复releasenote脚本无法运行的bug ([ea6b197](https://github.com/chj-damon/commit-demo/commit/ea6b197))
+* 修改生成releasenote的方法参数 ([db1b7c2](https://github.com/chj-damon/commit-demo/commit/db1b7c2))
+
 ## [1.3.0](https://github.com/chj-damon/commit-demo/compare/v1.2.0...v1.3.0) (2019-09-22)
 
 
