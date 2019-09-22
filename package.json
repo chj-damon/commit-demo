@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
-    "release": "standard-version",
+    "release": "release-it",
     "postrelease": "git push --follow-tags"
   },
   "author": "chj-damon",
@@ -19,7 +19,7 @@
     "conventional-changelog-custom-config": "^0.2.0",
     "cz-customizable": "^6.2.0",
     "husky": "^3.0.5",
-    "standard-version": "^7.0.0"
+    "release-it": "^12.4.1"
   },
   "config": {
     "commitizen": {

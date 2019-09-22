@@ -1,13 +1,16 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
-### [1.4.1](https://github.com/chj-damon/commit-demo/compare/v1.4.0...v1.4.1) (2019-09-22)
+## [1.4.1](https://github.com/chj-damon/commit-demo/compare/v1.4.0...v1.4.1) (2019-09-22)
 
 
-### Bug Fixes
+### 🎫 Chores
 
-* 修复changelog不生效的bug ([ba40d7f](https://github.com/chj-damon/commit-demo/commit/ba40d7f))
+* **release:** 1.4.1 ([998e7eb](https://github.com/chj-damon/commit-demo/commit/998e7eb)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+### 🐛 Bug Fixes
+
+* 修复changelog不生效的bug ([ba40d7f](https://github.com/chj-damon/commit-demo/commit/ba40d7f)) by: **chj_damon** (chjdamon@gmail.com)
+
+
 
 # [1.4.0](https://github.com/chj-damon/commit-demo/compare/v1.3.4...v1.4.0) (2019-09-22)
 
