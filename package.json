@@ -26,6 +26,11 @@
       "path": "node_modules/cz-customizable"
     }
   },
+  "changelog": {
+    "emojis": true,
+    "authorName": true,
+    "authorEmail": true
+  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"

@@ -10,9 +10,6 @@ const auth = {
 };
 const changelogOpts = {
   preset: 'custom-config',
-  emojis: true,
-  authorName: true,
-  authorEmail: true
 };
 const context = {
   title: '陈杰测试',
