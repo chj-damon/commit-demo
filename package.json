@@ -6,8 +6,8 @@
   "scripts": {
     "commit": "git-cz",
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
-    "release": "npm run changelog && standard-version",
-    "postrelease": "git push --follow-tags"
+    "push": "git push --follow-tags",
+    "release": "npm run changelog && standard-version && npm run push"
   },
   "author": "chj-damon",
   "license": "ISC",
