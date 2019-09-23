@@ -36,9 +36,5 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "standard-version": {
-    "preset": "conventional-changelog-custom-config",
-    "infile": true
-  },
   "dependencies": {}
 }
