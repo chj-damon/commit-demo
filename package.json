@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "changelog": "conventional-changelog -p custom-config -i CHANGELOG.md -s -r 0",
-    "release": "git add . && standard-version -a -p custom-config -i CHANGELOG.md -s -r 0",
+    "release": "git add . && standard-version -a",
     "postrelease": "git push --follow-tags"
   },
   "author": "chj-damon",
@@ -35,6 +35,10 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "standard-version": {
+    "preset": "custom-config",
+    "infile": true
   },
   "dependencies": {}
 }
