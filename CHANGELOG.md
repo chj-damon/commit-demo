@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.14](https://github.com/chj-damon/commit-demo/compare/v1.5.13...v1.5.14) (2019-09-23)
+
+
+### 🐛 Bug Fixes
+
+* test ([90c33f4](https://github.com/chj-damon/commit-demo/commit/90c33f4)) by: **chj_damon** (chjdamon@gmail.com)
+
+
+
 ## [1.5.13](https://github.com/chj-damon/commit-demo/compare/v1.5.11...v1.5.13) (2019-09-23)
 
 
